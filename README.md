@@ -1,5 +1,5 @@
-# LFBA
-setup LFBA:
+# Decrem
+setup Decrem:
 1, setup the COBRA2.0 toolbaox from palsson lab: http://systemsbiology.ucsd.edu/Downloads
 2, add java package of jartest into matlab by the command: javaclasspath;
 .\jartest\lib\jgraph-5.13.0.0.jar                                                   
