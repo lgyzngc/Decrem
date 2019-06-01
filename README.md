@@ -12,4 +12,4 @@ setup Decrem:
 
 3, setup the matlab package 'SpectraLib_A' for clustering analysis;
 4, setup the matlab package 'Fast_SNP' for solving sparse basis vectors;
-5 test the 'growthrate.m';
+5 test the 'Decrem.m';
