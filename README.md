@@ -1,6 +1,6 @@
-# Decrem
-setup Decrem:
-1, setup the COBRA2.0 toolbaox from palsson lab: http://systemsbiology.ucsd.edu/Downloads
+# Decrem - topologically-decoupled metabolic network
+## Installation:
+1, install the [**COBRA2.0**](http://systemsbiology.ucsd.edu/Downloads) toolbaox from palsson lab.
 2, add java package of jartest into matlab by the command: javaclasspath;
 .\jartest\lib\jgraph-5.13.0.0.jar                                                   
 .\jartest\lib\jgrapht-core-0.9.0.jar                                                
@@ -12,4 +12,4 @@ setup Decrem:
 
 3, setup the matlab package 'SpectraLib_A' for clustering analysis;
 4, setup the matlab package 'Fast_SNP' for solving sparse basis vectors;
-5 test the 'Decrem.m';
+5, test the 'Decrem.m';
